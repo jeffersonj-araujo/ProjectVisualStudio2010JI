@@ -1,0 +1,18 @@
+Cadastro>
+	Cadastro de Pessoas - (Cliente, Fornecedores, Funcionários ...)
+	Cadastro de Produtos
+	Cadastro de Bancos
+	Cadastro de Códigos de Operações
+Vendas>
+	Vendas
+Fluxo>
+	Contas a Pagar
+	Contas a Receber
+	Histórico
+Relatórios>
+    Demostrativo
+	Vendas por Clientes
+	Vendas por Vendedor
+Configurações>
+	Dados da Empresa
+	Outros
