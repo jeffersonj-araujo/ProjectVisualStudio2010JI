@@ -1,0 +1,9 @@
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\bin\ApliCom.dll
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\bin\ApliCom.pdb
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\bin\ApliComBLL.dll
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\bin\ApliComBLL.pdb
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\obj\Debug\ApliCom.csprojResolveAssemblyReference.cache
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\obj\Debug\ApliCom.dll
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\obj\Debug\ApliCom.pdb
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\bin\ApliComDAL.dll
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliCom\bin\ApliComDAL.pdb

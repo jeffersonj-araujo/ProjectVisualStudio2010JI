@@ -1,4 +1,0 @@
-C:\ProjectVisualStudio2010JI\Projetos\Aplicom\ApliCom\ApliCom\bin\ApliCom.dll
-C:\ProjectVisualStudio2010JI\Projetos\Aplicom\ApliCom\ApliCom\bin\ApliCom.pdb
-C:\ProjectVisualStudio2010JI\Projetos\Aplicom\ApliCom\ApliCom\obj\Debug\ApliCom.dll
-C:\ProjectVisualStudio2010JI\Projetos\Aplicom\ApliCom\ApliCom\obj\Debug\ApliCom.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApliCom", "ApliCom\ApliCom.csproj", "{07BE79B6-F688-476A-8C03-B7940F354864}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApliComBLL", "ApliComBLL\ApliComBLL.csproj", "{C128C5CB-F7CE-45C2-A8C8-02A64E22B149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApliComDAL", "ApliComDAL\ApliComDAL.csproj", "{D0F94FD0-AC83-4F86-809F-895428F4DFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BE79B6-F688-476A-8C03-B7940F354864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BE79B6-F688-476A-8C03-B7940F354864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BE79B6-F688-476A-8C03-B7940F354864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BE79B6-F688-476A-8C03-B7940F354864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C128C5CB-F7CE-45C2-A8C8-02A64E22B149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C128C5CB-F7CE-45C2-A8C8-02A64E22B149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C128C5CB-F7CE-45C2-A8C8-02A64E22B149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C128C5CB-F7CE-45C2-A8C8-02A64E22B149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F94FD0-AC83-4F86-809F-895428F4DFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F94FD0-AC83-4F86-809F-895428F4DFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F94FD0-AC83-4F86-809F-895428F4DFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F94FD0-AC83-4F86-809F-895428F4DFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

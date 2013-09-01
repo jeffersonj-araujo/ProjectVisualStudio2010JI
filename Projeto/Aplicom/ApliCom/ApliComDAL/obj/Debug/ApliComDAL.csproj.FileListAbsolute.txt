@@ -1,0 +1,5 @@
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliComDAL\bin\Debug\ApliComDAL.dll
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliComDAL\bin\Debug\ApliComDAL.pdb
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliComDAL\obj\Debug\ApliComDAL.dll
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliComDAL\obj\Debug\ApliComDAL.pdb
+C:\ProjectVisualStudio2010JI\Projeto\Aplicom\ApliCom\ApliComDAL\bin\Debug\ApliComDAL.dll.config
